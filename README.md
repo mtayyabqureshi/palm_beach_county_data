@@ -25,7 +25,7 @@ Supports Palm Beach County (PBC) property records using the public GIS API.
 ## 📂 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mtayyabqureshi/palm_beach_county_data.git
 cd your-repo
 pip install -r requirements.txt
 streamlit run app.py
